@@ -32,12 +32,12 @@ for (linha=1; linha<=altura; linha++)
     
 //Impressão do meio
     printf("  ");
-           
+
   // Impressão das segundas hashtags
 for (coluna=1; coluna<=linha; coluna++)
         {
             printf("#");
         }
-   printf("\n");
+    printf("\n");
 }
 }
